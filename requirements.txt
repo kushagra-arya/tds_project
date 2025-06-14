@@ -26,34 +26,3 @@ html2text
 tqdm
 markdown
 python-multipart
-=======
-numpy
-pandas
-matplotlib
-seaborn
-
-
-# For Reading Files, Some Libraries
-html5lib
-beautifulsoup4
-lxml
-
-
-fastapi
-uvicorn 
-
-fastapi==0.95.1
-uvicorn==0.22.0
-pydantic==1.10.7 
-
-requests
-playwright
-markdownify
-python-dotenv
-aiohttp
-html2text
-tqdm
-markdown
-python-multipart
->>>>>>> 30c7de703a63e5b0191b6fa830686b4b39d66838
-setuptools
