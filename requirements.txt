@@ -1,24 +1,9 @@
-numpy
-pandas
-matplotlib
-seaborn
-
-
-# For Reading Files, Some Libraries
-html5lib
 beautifulsoup4
-lxml
-
-
 fastapi
 uvicorn 
-
-fastapi==0.95.1
-uvicorn==0.22.0
-pydantic==1.10.7 
-
 requests
 playwright
+pydantic
 markdownify
 python-dotenv
 aiohttp
